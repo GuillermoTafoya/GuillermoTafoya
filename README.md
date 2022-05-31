@@ -1,6 +1,6 @@
 <h1 align="center">Hello world! I'm Guillermo Tafoya 🎹 </h1>
 <h3 align="center">I am a CS student at Tec de Monterrey</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GuillermoTafoya&label=Profile%20views&color=A41034&style=for-the-badge" alt="GuillermoTafoya" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GuillermoTafoya&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="GuillermoTafoya" /> 
   
 - 👋 Hi, I’m @GuillermoTepanyaki
 - 👀 I’m interested in web development, artificial intelligence, machine learning and computer science.
